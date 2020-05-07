@@ -38,7 +38,8 @@ show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
 
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : thiagorossener/jekflix-template
+
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
